@@ -1,7 +1,7 @@
 # BinaryTdecimal-
 import java.util.Scanner;
 
-public class Exercise22 {
+public class BinaryTodecimal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
          long binaryNumber, decimalNumber = 0, j = 1, remainder;
